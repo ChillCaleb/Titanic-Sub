@@ -1,1 +1,1 @@
-# Titanic-Sub
+# submission for the titanic competition on kaggle
